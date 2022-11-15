@@ -18,7 +18,7 @@
 
 - Bütün routerlar için;
 
-<br>Bütün cihazlar için;
+<br>Bütün router cihazlar için;
 	- ***Password:*** ```sunum```
 	- ***Secret:*** ```namik```
  
