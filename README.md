@@ -23,6 +23,7 @@
 - Routerların Interface ayarlarını yaptım
 
 - Ping testlerini yaptım ping alıp almadıklarını kontrol ettim
+- Multi Switch 0 için Trunking yaptım
 - Dynamic routing ospf ayarlarını yaptım
 
 - End device'lar server'lara erişip ping atabiliyor
@@ -43,7 +44,7 @@
 <div align="center">
 
 ----------------------------------------
-- Bütün işlemleri proje üstüne not aldım görüntü kirliliği olmasın diye "<" kullanarak gizledim.
+ Bütün işlemleri proje üstüne not aldım görüntü kirliliği olmasın diye "<" kullanarak gizledim.
 
 ----------------------------------------
 </div>
