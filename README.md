@@ -13,17 +13,16 @@
 
 - End Device'ların IP, GW ve DNS ayarlarını yaptım
 
-- Switch ve Router'ların Basic ayarlarını yaptım
-- Bütün cihazlar için;
+- Bütün routerlar için;
 
 <br>Bütün cihazlar için;
 	- ***Password:*** ```sunum```
 	- ***Secret:*** ```namik```
  
 - Routerların Interface ayarlarını yaptım
-
-- Ping testlerini yaptım ping alıp almadıklarını kontrol ettim
 - Multi Switch 0 için Trunking yaptım
+- Ping testlerini yaptım ping alıp almadıklarını kontrol ettim
+
 - Dynamic routing ospf ayarlarını yaptım
 
 - End device'lar server'lara erişip ping atabiliyor
