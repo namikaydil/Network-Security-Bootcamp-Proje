@@ -46,7 +46,7 @@
 <div align="center">
 
 ----------------------------------------
- Bütün işlemleri proje üstüne not aldım görüntü kirliliği olmasın diye "<" kullanarak gizledim.
+ Bütün işlemleri proje üstüne not aldım  "<" kullanarak gizledim işlemleri daha detaylı olarak proje üstünden inceleyebilirsiniz
 
 ----------------------------------------
 </div>
